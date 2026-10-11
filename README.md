@@ -1,6 +1,6 @@
 # AI 101
 
-How AI really works, in 30-second stories. Read it at **https://amishah1998.github.io/ai101/**.
+How AI really works, in 30-second stories. Read it at **https://101.aidojo.si**.
 
 Chintu is a robot intern who read the entire internet. Across 11 short chapters, Chintu, Sharma ji (who trusts nothing without data) and Pinky (who trusts Chintu a little too much) show how large language models actually behave:
 
